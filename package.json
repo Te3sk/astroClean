@@ -1,0 +1,26 @@
+{
+  "name": "astroclean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Te3sk/astroClean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Te3sk/astroClean/issues"
+  },
+  "homepage": "https://github.com/Te3sk/astroClean#readme",
+  "dependencies": {
+    "astro": "^1.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
