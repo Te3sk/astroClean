@@ -1,5 +1,16 @@
 {
-  "dependencies": {
-    "@astrojs/tailwind": "^1.0.0"
+  "name": "@example/minimal",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro-scripts dev \"src/**/*.ts\"",
+    "test": "mocha --timeout 20000",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "astro": "^1.1.1"
   }
 }
